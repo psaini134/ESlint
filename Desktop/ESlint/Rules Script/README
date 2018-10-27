@@ -1,0 +1,5 @@
+# Basic Rule Script- 
+
+In a basic rule script we use the { "extends": "eslint:recommended" } after this cde we use all rules that are present into the eslint installed version.
+
+And we customize the our rule script on the basis of the project.
